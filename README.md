@@ -1,4 +1,4 @@
-# TwineW
+# TwineW v1.0.0
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 [![PyPI](https://img.shields.io/pypi/v/TwineW?color=green)](https://pypi.org/project/TwineW/)
