@@ -5,8 +5,6 @@
 [![GitHub](https://img.shields.io/github/license/wilsonnnlol/TwineW)](https://github.com/wilsonnnlol/TwineW/blob/main/LICENSE)
 ## Overview
 
-*(Replace this section with a concise description of what TwineW does. What problem does it solve? What are its main features?)*
-
 TwineW is a Python package designed to simplify macroing endurance. It provides super easy building blocks to construct a working macro, with the ability to make changes easily.
 
 ## Installation
@@ -102,3 +100,27 @@ macro.main_screen.begin(begin_time=5, name='Joeballz')
 ```
 
 Which wil return with the intended values.
+
+## Updating
+
+I will announce any new updates, to update TwineW, please use:
+
+```bash
+pip install --upgrade TwineW
+```
+
+which will automatically install the newest version of TwineW.
+
+In case anything goes wrong during installation, try uninstalling and reinstalling the program with:
+
+```bash
+pip uninstall TwineW
+```
+
+and
+
+```bash
+pip install TwineW
+```
+
+Which should work when attempting to download the newest version incase upgrading the package doesn't work.
